@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.cross {
+  text-decoration: line-through;
+}
+
+ul {
+  font-size: 30px;
+  list-style-position: inside;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+
+input[type="text"]
+{
+    font-size:17px;
+}
+
+*:focus {
+    outline: 0;
+}
+
+
+label {
+  font-size: 24px;
+}
+
+button {
+  background-color: white;
+  padding: 11px;
+  margin-left: 10px;
+  border-radius: 16px;
+  border: black;
+}
+
+
